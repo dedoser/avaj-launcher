@@ -1,23 +1,23 @@
-#Avaj-Launcher
+# Avaj-Launcher
 
-##Description
+## Description
 Aircraft simulation program based on the UML class diagram.
 ![UML Diagram](avaj_uml.png)
 
-##Behaviour
+## Behaviour
 Program will take one and only one argument from the command line. This argument represents the name of a text file that will contain the scenario that needs to be
 simulated. 
 Executing the program will generate a file simulation.txt that describes the outcome
 of the simulation.
 
-##Compilation
+## Compilation
 Compile the project running the commands bellow in the root of your project folder.
 ```
 $ find * -name "*.java" > sources.txt
 $ javac @sources.txt
 ```
 
-##Description
+## Description
 ### Scenario file
 
 The first line of the file contains a positive integer number. This number represents the
@@ -36,7 +36,7 @@ There are 4 types of weather:
 Each 3 dimensional point has its own weather. Feel free to use whatever generation
 algorithm you want, as long as it takes into account the point’s coordinates.
 
-###Additional info
+### Additional info
 - Coordinates are positive numbers.
 - The height is in the 0-100 range.
 - If an aircraft needs to pass the upper limit height it remains at 100.
