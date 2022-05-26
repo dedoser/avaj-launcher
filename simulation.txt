@@ -1,0 +1,129 @@
+Tower says: Balloon#B1(0) registered to weather tower.
+Tower says: Balloon#B2(1) registered to weather tower.
+Tower says: JetPlane#J1(2) registered to weather tower.
+Tower says: Helicopter#H1(3) registered to weather tower.
+Tower says: Helicopter#H2(4) registered to weather tower.
+Tower says: Helicopter#H3(5) registered to weather tower.
+Tower says: Balloon#B3(6) registered to weather tower.
+Tower says: JetPlane#J2(7) registered to weather tower.
+Tower says: Helicopter#H4(8) registered to weather tower.
+Balloon#B1(0): I believe I can fly
+Balloon#B2(1): I believe I can fly
+JetPlane#J1(2): I am a Khrushchev's corn plane
+Helicopter#H1(3): Snow patrol tututu
+Helicopter#H2(4): Snow patrol tututu
+Helicopter#H3(5): It looks like a helicopter mission from GTA Vice City
+Balloon#B3(6): I don't know, what I am doing here
+JetPlane#J2(7): And it's so white as snoooow
+Helicopter#H4(8): ETO VERTOLYOT
+Balloon#B1(0): I am a red balloon from IT
+Balloon#B2(1): I am a red balloon from IT
+JetPlane#J1(2): I am a Khrushchev's corn plane
+Helicopter#H1(3): Let the bodies hit the floor
+Helicopter#H2(4): Snow patrol tututu
+Helicopter#H3(5): Snow patrol tututu
+Balloon#B3(6): I believe I can fly
+JetPlane#J2(7): I am a Khrushchev's corn plane
+Helicopter#H4(8): ETO VERTOLYOT
+Balloon#B1(0): I don't know, what I am doing here
+Balloon#B2(1): I don't know, what I am doing here
+JetPlane#J1(2): I am a Khrushchev's corn plane
+Helicopter#H2(4): Snow patrol tututu
+Helicopter#H3(5): Snow patrol tututu
+Balloon#B3(6): I am a red balloon from IT
+JetPlane#J2(7): WHO VAPED???
+Helicopter#H4(8): ETO VERTOLYOT
+Balloon#B1(0): I believe I can fly
+Balloon#B2(1): I believe I can fly
+JetPlane#J1(2): I am a Khrushchev's corn plane
+Helicopter#H2(4): Let the bodies hit the floor
+Helicopter#H3(5): Snow patrol tututu
+Balloon#B3(6): I don't know, what I am doing here
+JetPlane#J2(7): And it's so white as snoooow
+Helicopter#H4(8): ETO VERTOLYOT
+Balloon#B1(0): I am a red balloon from IT
+Balloon#B2(1): I am a red balloon from IT
+JetPlane#J1(2): I am a Khrushchev's corn plane
+Helicopter#H3(5): Snow patrol tututu
+Balloon#B3(6): I believe I can fly
+JetPlane#J2(7): I am a Khrushchev's corn plane
+Helicopter#H4(8): ETO VERTOLYOT
+Balloon#B1(0): I don't know, what I am doing here
+Balloon#B2(1): I don't know, what I am doing here
+JetPlane#J1(2): I am a Khrushchev's corn plane
+Helicopter#H3(5): Snow patrol tututu
+Balloon#B3(6): I am a red balloon from IT
+JetPlane#J2(7): WHO VAPED???
+Helicopter#H4(8): ETO VERTOLYOT
+Balloon#B1(0): Ah s**t, here we come again
+Balloon#B2(1): I believe I can fly
+JetPlane#J1(2): I am a Khrushchev's corn plane
+Helicopter#H3(5): Snow patrol tututu
+Balloon#B3(6): I don't know, what I am doing here
+JetPlane#J2(7): And it's so white as snoooow
+Helicopter#H4(8): ETO VERTOLYOT
+Balloon#B2(1): I am a red balloon from IT
+JetPlane#J1(2): I am a Khrushchev's corn plane
+Helicopter#H3(5): Snow patrol tututu
+Balloon#B3(6): Ah s**t, here we come again
+JetPlane#J2(7): I am a Khrushchev's corn plane
+Helicopter#H4(8): ETO VERTOLYOT
+Balloon#B2(1): I don't know, what I am doing here
+JetPlane#J1(2): I am a Khrushchev's corn plane
+Helicopter#H3(5): Snow patrol tututu
+JetPlane#J2(7): WHO VAPED???
+Helicopter#H4(8): ETO VERTOLYOT
+Balloon#B2(1): I believe I can fly
+JetPlane#J1(2): I am a Khrushchev's corn plane
+Helicopter#H3(5): Snow patrol tututu
+JetPlane#J2(7): And it's so white as snoooow
+Helicopter#H4(8): ETO VERTOLYOT
+Balloon#B2(1): I am a red balloon from IT
+JetPlane#J1(2): I am a Khrushchev's corn plane
+Helicopter#H3(5): Let the bodies hit the floor
+JetPlane#J2(7): I am a Khrushchev's corn plane
+Helicopter#H4(8): ETO VERTOLYOT
+Balloon#B2(1): I don't know, what I am doing here
+JetPlane#J1(2): I am a Khrushchev's corn plane
+JetPlane#J2(7): WHO VAPED???
+Helicopter#H4(8): ETO VERTOLYOT
+Balloon#B2(1): Ah s**t, here we come again
+JetPlane#J1(2): I am a Khrushchev's corn plane
+JetPlane#J2(7): And it's so white as snoooow
+Helicopter#H4(8): ETO VERTOLYOT
+JetPlane#J1(2): I am a Khrushchev's corn plane
+JetPlane#J2(7): I am a Khrushchev's corn plane
+Helicopter#H4(8): ETO VERTOLYOT
+JetPlane#J1(2): I am a Khrushchev's corn plane
+JetPlane#J2(7): WHO VAPED???
+Helicopter#H4(8): ETO VERTOLYOT
+JetPlane#J1(2): I am a Khrushchev's corn plane
+JetPlane#J2(7): And it's so white as snoooow
+Helicopter#H4(8): ETO VERTOLYOT
+JetPlane#J1(2): I am a Khrushchev's corn plane
+JetPlane#J2(7): I am a Khrushchev's corn plane
+Helicopter#H4(8): ETO VERTOLYOT
+JetPlane#J1(2): I am a Khrushchev's corn plane
+JetPlane#J2(7): WHO VAPED???
+Helicopter#H4(8): ETO VERTOLYOT
+JetPlane#J1(2): I am a Khrushchev's corn plane
+JetPlane#J2(7): And it's so white as snoooow
+Helicopter#H4(8): ETO VERTOLYOT
+JetPlane#J1(2): I am a Khrushchev's corn plane
+JetPlane#J2(7): I am a Khrushchev's corn plane
+Helicopter#H4(8): ETO VERTOLYOT
+JetPlane#J1(2): I am a Khrushchev's corn plane
+JetPlane#J2(7): WHO VAPED???
+Helicopter#H4(8): ETO VERTOLYOT
+JetPlane#J1(2): I am a Khrushchev's corn plane
+JetPlane#J2(7): And it's so white as snoooow
+Helicopter#H4(8): ETO VERTOLYOT
+JetPlane#J1(2): I am a Khrushchev's corn plane
+JetPlane#J2(7): I am a Khrushchev's corn plane
+Helicopter#H4(8): ETO VERTOLYOT
+JetPlane#J1(2): I am a Khrushchev's corn plane
+JetPlane#J2(7): WHO VAPED???
+Helicopter#H4(8): It looks like a helicopter mission from GTA Vice City
+JetPlane#J1(2): I am a Khrushchev's corn plane
+JetPlane#J2(7): And it's so white as snoooow
+Helicopter#H4(8): Snow patrol tututu

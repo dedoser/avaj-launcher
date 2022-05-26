@@ -6,11 +6,15 @@ import ru.fignigno.avax.fly.Flyable;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
 public class Simulator {
+
+    private static final String SCENARIO_FILENAME = "simulation.txt";
 
     private static List<String> infoLines = new ArrayList<>();
     private static int simAmount;
@@ -21,6 +25,7 @@ public class Simulator {
             System.err.println("Wrong amount of arguments");
             return;
         }
+        initScenarioFile();
         try {
             readPropertiesFromFile(args[0]);
             initVariables();
@@ -28,10 +33,21 @@ public class Simulator {
             System.err.println(e.getMessage());
             return;
         }
-
         for (int i = 0; i < simAmount; ++i) {
             weatherTower.changeWeather();
         }
+    }
+
+    private static void initScenarioFile() {
+        try {
+            File outFile = new File(SCENARIO_FILENAME);
+            outFile.createNewFile();
+            PrintStream newOutStream = new PrintStream(outFile);
+            System.setOut(newOutStream);
+        } catch (IOException e) {
+            System.err.println("Cannot write to file");
+        }
+
     }
 
     private static void readPropertiesFromFile(String filename) {
