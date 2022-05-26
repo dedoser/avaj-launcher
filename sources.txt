@@ -1,0 +1,13 @@
+ru/fignigno/avax/WeatherTower.java
+ru/fignigno/avax/Tower.java
+ru/fignigno/avax/WeatherType.java
+ru/fignigno/avax/provider/WeatherProvider.java
+ru/fignigno/avax/exception/SimulationException.java
+ru/fignigno/avax/Simulator.java
+ru/fignigno/avax/fly/JetPlane.java
+ru/fignigno/avax/fly/Coordinates.java
+ru/fignigno/avax/fly/Aircraft.java
+ru/fignigno/avax/fly/Helicopter.java
+ru/fignigno/avax/fly/Balloon.java
+ru/fignigno/avax/fly/Flyable.java
+ru/fignigno/avax/fly/AircraftFactory.java
